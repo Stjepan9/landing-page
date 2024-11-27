@@ -1,0 +1,46 @@
+body{
+    font-family:"Roboto",sans-serif;
+    height:100vh;
+}
+
+
+
+
+.boxes{
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.box-one{
+    background-color: #1F2937;
+    flex-grow:2;
+    padding:16px;
+}
+
+.box-two{
+    background-color: white;
+    flex-grow:2;
+    padding:16px;
+}
+
+.box-three{
+    background-color: #E5E7EB;
+    flex-grow:2;
+    padding:16px;
+}
+
+.box-four{
+    background-color: white;
+    flex-grow:1;
+    padding:16px;
+}
+
+.footer{
+    background-color: #1F2937;
+    flex-grow: 0.5;
+    padding:16px;
+}
+
+
+
