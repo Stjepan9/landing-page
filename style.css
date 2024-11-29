@@ -10,7 +10,7 @@ body{
 .box-one{
     background-color: #1F2937;
     flex-grow:2;
-    padding:16px;
+    padding:40px;
 }
 .header{
     width:100%;
@@ -186,7 +186,7 @@ a{
     margin-left:20%;
     margin-right:20%;
     background-color: #1F2937;
-    color:#E5E7EB;
+    color:#F9FAF8;
     font-size:20px;
     font-weight:900;
     border-radius:80px;
@@ -231,4 +231,13 @@ p{
     background-color: #1F2937;
     flex-grow: 0.5;
     padding:16px;
+}
+
+.footer-title{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:#F9FAF8;
+
+
 }
